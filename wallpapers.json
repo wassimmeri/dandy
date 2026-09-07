@@ -1,0 +1,391 @@
+
+[
+  {
+    "id": "1",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/1.webp"
+  },
+  {
+    "id": "2",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/2.webp"
+  },
+  {
+    "id": "3",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/3.webp"
+  },
+{
+    "id": "4",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/4.webp"
+  },
+    {
+    "id": "5",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/5.webp"
+  },
+  {
+    "id": "6",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/6.webp"
+  },
+  {
+    "id": "7",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/7.webp"
+  },
+  {
+    "id": "8",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/8.webp"
+  },
+  {
+    "id": "9",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/9.webp"
+  },
+  {
+    "id": "10",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/10.webp"
+  },
+  {
+    "id": "11",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/11.webp"
+  },
+  {
+    "id": "12",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/12.webp"
+  },
+  {
+    "id": "13",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/13.webp"
+  },
+  {
+    "id": "14",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/14.webp"
+  },
+   {
+    "id": "15",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/15.webp"
+  },
+  {
+    "id": "16",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/16.webp"
+  },
+  {
+    "id": "17",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/17.webp"
+  },
+  {
+    "id": "18",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/18.webp"
+  },
+  {
+    "id": "19",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/19.webp"
+  },
+  {
+    "id": "20",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/20.webp"
+  },
+  {
+    "id": "21",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/21.webp"
+  },
+  {
+    "id": "22",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/22.webp"
+  },
+  {
+    "id": "23",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/23.webp"
+  },
+  {
+    "id": "24",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/24.webp"
+  },
+  {
+    "id": "25",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/25.webp"
+  },
+  {
+    "id": "26",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/26.webp"
+  },
+    {
+    "id": "27",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/27.webp"
+  },
+  {
+    "id": "28",
+    "name": "DANDY",
+    "isNew": false,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/28.webp"
+  },
+  {
+    "id": "29",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/29.webp"
+  },
+  {
+    "id": "30",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/30.webp"
+  },
+  {
+    "id": "31",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/31.webp"
+  },
+  {
+    "id": "32",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/32.webp"
+  },
+  {
+    "id": "33",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/33.webp"
+  },
+  {
+    "id": "34",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/34.webp"
+  },
+  {
+    "id": "35",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/35.webp"
+  },
+  {
+    "id": "36",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/36.webp"
+  },
+  {
+    "id": "37",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/37.webp"
+  },
+  {
+    "id": "38",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/38.webp"
+  },
+  {
+    "id": "39",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/39.webp"
+  },
+  {
+    "id": "40",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/40.webp"
+  },
+  {
+    "id": "41",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/41.webp"
+  },
+  {
+    "id": "42",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/42.webp"
+  },
+  {
+    "id": "43",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/43.webp"
+  },
+  {
+    "id": "44",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/44.webp"
+  },
+  {
+    "id": "45",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/45.webp"
+  },
+  {
+    "id": "46",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/46.webp"
+  },
+  {
+    "id": "47",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/47.webp"
+  },
+  {
+    "id": "48",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/48.webp"
+  },
+  {
+    "id": "49",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/49.webp"
+  },
+  {
+    "id": "50",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/50.webp"
+  },
+  {
+    "id": "51",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/51.webp"
+  },
+  {
+    "id": "52",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/52.webp"
+  },
+  {
+    "id": "53",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/53.webp"
+  },
+  {
+    "id": "54",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/54.webp"
+  },
+  {
+    "id": "55",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/55.webp"
+  },
+  {
+    "id": "56",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/56.webp"
+  },
+  {
+    "id": "57",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/57.webp"
+  },
+  {
+    "id": "58",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/58.webp"
+  },
+  {
+    "id": "59",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/59.webp"
+  },
+  {
+    "id": "60",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/60.webp"
+  },
+  {
+    "id": "61",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/61.webp"
+  },
+  {
+    "id": "62",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/62.webp"
+  },
+  {
+    "id": "63",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/63.webp"
+  },
+  {
+    "id": "64",
+    "name": "DANDY",
+    "isNew": true,
+    "url": "https://cdn.jsdelivr.net/gh/wassimmeri/DANDY@main/images/64.webp"
+  },
+  {
+  "privacy_policy_url": "https://redskyapps.netlify.app/",
+  "rate_app_url": "https://play.google.com/store/apps/details?id=com.redsky.dandyworld.wallpapers"
+  }
+]
